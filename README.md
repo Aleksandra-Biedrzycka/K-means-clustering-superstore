@@ -8,3 +8,5 @@ By the K-means method the clients can be divided into 3 groups (represented by t
 1st cluster: Clients from Minnesota, buy technology produkts. Profit from that clients: 106 coins.
 2nd cluster: Clients from Virginia, buy office products. Profit from that clients: 20 coins.
 3rd cluster: Clients from Utah, buy office products. Profit from that clients: 3 coins.
+
+Data are visualised in Power BI (and in Store.pdf file)
